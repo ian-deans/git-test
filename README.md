@@ -1,5 +1,5 @@
 # git-test
 
-# Header for README
+# Purpose of Repo
 
-This project does stuff.
+this project was a demonstration of git usage.
